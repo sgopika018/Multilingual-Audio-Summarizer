@@ -1,4 +1,5 @@
 # Multilingual-Audio-Summarizer
+Hiii!Iam Gopika from computer science of artificial intelligence and machine learning department.
 A multilingual text and audio summarizer built using Python and Gradio.   It can summarize text or speech in any language, convert audio to text, translate content, and generate voice output for summaries.
 A multilingual text + audio summarization tool built using Python, Gradio, and speech/translation APIs.
 This project can:
