@@ -9,7 +9,7 @@ Summarize text in any language
   🌐Translate summaries into multiple languages
   🗣Generate voice output (Text-to-Speech)
   
-Features
+# Features
 ✔ Supports multiple languages (English, Hindi, Tamil, Spanish, German, French)
 ✔ Upload audio and automatically convert to text
 ✔ Auto-language detection
@@ -18,7 +18,7 @@ Features
 ✔ Runs on Google Colab or local machine
 ✔ Clean Gradio UI
 
- Installation
+ #Installation
 
 1. Install dependencies
 pip install gradio deep-translator langdetect gTTS SpeechRecognition pydub
@@ -29,7 +29,7 @@ Save your Python script and run:
 python app.py
 Or launch inside Google Colab (fully supported).
 
-  How It Works
+ # How It Works
 
 Text Summarization
 Uses a TF–IDF scoring algorithm with:
@@ -41,12 +41,12 @@ Speech to Text
 Uses SpeechRecognition + Google Speech API
 (.wav, .mp3, .m4a etc. supported)
 
-Translation
+# Translation
 Uses GoogleTranslator (deep-translator library).
 Text to Speech (TTS)
 Uses gTTS to generate voice output in selected language.
 
-Gradio Interface
+# Gradio Interface
 
 Your app provides:
 Text input
@@ -61,7 +61,7 @@ iface = gr.Interface(
 )
 iface.launch(share=True)
 
-Project Structure
+# Project Structure
 Multilingual-Audio-Summarizer/
 │── app.py
 │── requirements.txt
@@ -72,10 +72,10 @@ Multilingual-Audio-Summarizer/
 Contributing
 Pull requests and feature suggestions are welcome!
 
-📄License
+# 📄License
 MIT License
 
-Output:
+# Output:
 <img width="1269" height="512" alt="image" src="https://github.com/user-attachments/assets/2798007b-b0ff-4434-b4d2-ac3bba4256ce" />
 <img width="1144" height="478" alt="image" src="https://github.com/user-attachments/assets/73442880-b055-4906-a657-421d18dfb019" />
 
