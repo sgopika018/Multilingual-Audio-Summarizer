@@ -76,6 +76,7 @@ Pull requests and feature suggestions are welcome!
 MIT License
 
 Output:
+<img width="1269" height="512" alt="image" src="https://github.com/user-attachments/assets/2798007b-b0ff-4434-b4d2-ac3bba4256ce" />
 <img width="1144" height="478" alt="image" src="https://github.com/user-attachments/assets/73442880-b055-4906-a657-421d18dfb019" />
-![Uploading image.png…]()
+
 
