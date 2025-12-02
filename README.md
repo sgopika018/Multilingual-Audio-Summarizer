@@ -74,3 +74,6 @@ Pull requests and feature suggestions are welcome!
 📄License
 MIT License
 
+Output:
+![Uploading image.png…]()
+
