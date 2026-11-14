@@ -1,0 +1,7 @@
+gradio
+deep-translator
+langdetect
+gTTS
+SpeechRecognition
+pydub
+audioop-lts; python_version >= "3.13"
